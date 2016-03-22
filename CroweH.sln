@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweH", "CroweH\CroweH.csproj", "{C7C5D685-510F-4128-BE5A-6B9AA2A3A082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweH.Tests", "CroweH.Tests\CroweH.Tests.csproj", "{012C7145-383B-48AB-8423-212B94703761}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CroweHConsoleClient", "CroweHConsoleClient\CroweHConsoleClient.csproj", "{D6B871A4-9B47-46C4-B456-8DA2A125C1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C5D685-510F-4128-BE5A-6B9AA2A3A082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C5D685-510F-4128-BE5A-6B9AA2A3A082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C5D685-510F-4128-BE5A-6B9AA2A3A082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C5D685-510F-4128-BE5A-6B9AA2A3A082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012C7145-383B-48AB-8423-212B94703761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012C7145-383B-48AB-8423-212B94703761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012C7145-383B-48AB-8423-212B94703761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012C7145-383B-48AB-8423-212B94703761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B871A4-9B47-46C4-B456-8DA2A125C1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B871A4-9B47-46C4-B456-8DA2A125C1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B871A4-9B47-46C4-B456-8DA2A125C1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B871A4-9B47-46C4-B456-8DA2A125C1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

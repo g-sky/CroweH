@@ -1,0 +1,10 @@
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\bin\Debug\CroweHConsoleClient.exe.config
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\bin\Debug\CroweHConsoleClient.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\bin\Debug\CroweHConsoleClient.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\obj\Debug\CroweHConsoleClient.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\obj\Debug\CroweHConsoleClient.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\bin\Debug\System.Net.Http.Formatting.dll
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\bin\Debug\System.Net.Http.Formatting.xml
+c:\Users\Admin\documents\visual studio 2015\Projects\CroweH\CroweHConsoleClient\obj\Debug\CroweHConsoleClient.csprojResolveAssemblyReference.cache
